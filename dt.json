@@ -1,0 +1,6 @@
+{
+    "ck": "your_auth_key",
+    "start_price": 1,
+    "end_price": 1000,
+    "universe_id": 123456789
+}
